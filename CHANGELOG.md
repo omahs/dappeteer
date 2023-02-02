@@ -1,5 +1,18 @@
 # Changelog
 
+## [4.3.0](https://github.com/ChainSafe/dappeteer/compare/v4.2.0...v4.3.0) (2023-02-02)
+
+
+### Features
+
+* create account method ([#253](https://github.com/ChainSafe/dappeteer/issues/253)) ([ec7e492](https://github.com/ChainSafe/dappeteer/commit/ec7e4925ea53cee2b78d8709eacee0439bfc60ba))
+* improved DX ([#258](https://github.com/ChainSafe/dappeteer/issues/258)) ([a20d0e1](https://github.com/ChainSafe/dappeteer/commit/a20d0e15b56b74cdfc6c5e24aa4f522663f00f1f))
+
+
+### Bug Fixes
+
+* bootstrap launching with `userDataDir` ([#259](https://github.com/ChainSafe/dappeteer/issues/259)) ([5ea28fe](https://github.com/ChainSafe/dappeteer/commit/5ea28fefc21e609b9f64d3303702b2ff42da025f))
+
 ## [4.2.0](https://github.com/ChainSafe/dappeteer/compare/v4.1.1...v4.2.0) (2023-01-26)
 
 
